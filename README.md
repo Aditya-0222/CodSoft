@@ -24,6 +24,8 @@ Live Portfolio: [Visit here](https://aditya-0222.github.io/portfolio_aditya/)
 ## **2. 📄 Landing Page**
 The Landing Page is a simple, elegant webpage designed to capture attention and direct users to specific content. It highlights key information and features smooth transitions and animations.
 
+Live Page: [Visit here](https://aditya-0222.github.io/Landing_Page/) 
+
 ### **Features:**
   Minimalist Design: Clean and uncluttered, with a focus on the main message.
   Animations and Transitions: Smooth hover animations and transitions to enhance the user experience.
@@ -36,6 +38,8 @@ The Landing Page is a simple, elegant webpage designed to capture attention and 
 
 ## **3. 🧮 Simple Calculator**
 The Simple Calculator is a functional web-based application that performs basic arithmetic operations, with a focus on clean code and user-friendly design.
+
+Live Calculaot: [Visit here](https://aditya-0222.github.io/Calculator/) 
 
 ### **Features:**
   Basic Arithmetic: Supports addition, subtraction, multiplication, and division.
