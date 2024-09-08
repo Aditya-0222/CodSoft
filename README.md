@@ -39,7 +39,7 @@ Live Page: [Visit here](https://aditya-0222.github.io/Landing_Page/)
 ## **3. 🧮 Simple Calculator**
 The Simple Calculator is a functional web-based application that performs basic arithmetic operations, with a focus on clean code and user-friendly design.
 
-Live Calculaot: [Visit here](https://aditya-0222.github.io/Calculator/) 
+Live Calculator: [Visit here](https://aditya-0222.github.io/Calculator/) 
 
 ### **Features:**
   Basic Arithmetic: Supports addition, subtraction, multiplication, and division.
