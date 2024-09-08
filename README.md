@@ -9,6 +9,8 @@ Welcome to my repository! This repository contains two distinct projects complet
 ## 1. 🌐 Portfolio Website**
 The Portfolio Website is a personal project designed to showcase my skills, experiences, and completed projects. It is structured to be clean, professional, and responsive.
 
+Live Portfolio: [Visit here](https://aditya-0222.github.io/portfolio_aditya/) 
+
 ### **Features:**
   Professional Layout: Sections for 'About Me', 'Projects', and 'Contact Information.'
   Interactive Design: Clickable social media icons and navigation links.
