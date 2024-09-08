@@ -45,23 +45,6 @@ The Simple Calculator is a functional web-based application that performs basic 
   3.  JavaScript: For implementing the logic behind the calculations.
 
 
-**📂 Folder Structure**
-
-├── Portfolio
-│   ├── index.html
-│   ├── styles.css
-│   └── Images
-├── Landing_Page
-│   ├── index.html
-│   ├── styles.css
-│   └── Images
-└── Calculator
-    ├── index.html
-    ├── styles.css
-    └── script.js
-
-
-
 🛠️ **Tools Used**
     Visual Studio Code for development.
     Git for version control.
