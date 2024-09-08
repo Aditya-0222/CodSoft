@@ -61,18 +61,6 @@ The Simple Calculator is a functional web-based application that performs basic 
     └── script.js
 
 
-**🎯 How to Run**
-1)   Clone this repository:
-   
-       git clone https://github.com/AdityaThakur/Web-Development-Internship-Projects.git
-
-2)  Navigate to the respective project folder:
-      cd Portfolio            # For the portfolio project
-      cd Landing_Page         # For the landing page
-      cd Calculator           # For the calculator
-
-3)  Open the index.html file in your web browser to view the project.
-
 
 🛠️ **Tools Used**
     Visual Studio Code for development.
